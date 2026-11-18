@@ -1,0 +1,9 @@
+* text=auto
+*.cs text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.md text eol=lf
+*.obj text eol=lf
+*.mtl text eol=lf
+*.smk binary
+*.png binary

@@ -1,0 +1,24 @@
+# Local builds and release artifacts are not source; publish the player ZIP as a release.
+/build/
+/dist/
+/site/
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.vs/
+.idea/
+*.user
+*.suo
+*.dll
+*.exe
+*.pdb
+*.zip
+*.log
+*.tmp
+*.partial
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
